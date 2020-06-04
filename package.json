@@ -1,7 +1,7 @@
 {
-  "name": "corona-tracker-ts",
-  "version": "0.1.0",
-  "private": true,
+  "name": "react-table-test",
+  "version": "1.0.0",
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.9.14",
     "@testing-library/jest-dom": "^5.8.0",
@@ -17,6 +17,7 @@
     "axios": "^0.19.2",
     "chart.js": "^2.9.3",
     "classnames": "^2.2.6",
+    "namor": "^2.0.2",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-chartjs-2": "^2.9.0",
